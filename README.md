@@ -153,8 +153,8 @@ import java.util.Random;
 import java.util.Scanner;
 public class NumberGuessingGame {
     public static void main(String[] args) {
-        System.out.println("SUJITH HARI K");
-        System.out.println("URK24CS1264");
+        System.out.println("JERIN JONES J");
+        System.out.println("URK24CS1281");
         Random rand = new Random();
         Scanner sc = new Scanner(System.in);
         int numberToGuess = rand.nextInt(100) + 1;
